@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Priyanka Ray
 
-<!--
-**Priyanka-ray04/Priyanka-ray04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
 
-Here are some ideas to get you started:
+I enjoy creating responsive and user-friendly web applications with a focus on clean design and functionality. I like turning ideas into interactive experiences and continuously improving my development skills through practical work and new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Skilled in HTML, CSS, and JavaScript
+- Interested in building modern and responsive web interfaces
+- Focused on writing clean, organized, and maintainable code
+- Continuously learning and improving through hands-on development
+
+## Skills
+
+🔹 HTML5  
+🔹 CSS3  
+🔹 JavaScript  
+🔹 Git  
+🔹 GitHub  
+
+## Portfolio
+
+🌐 Portfolio: [Your Portfolio Link]
+
+## Connect with me
+
+💼 LinkedIn: [Your LinkedIn Link]  
+📧 Email: priyanka.ray0409@gmail.com
