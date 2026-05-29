@@ -21,9 +21,8 @@ I enjoy creating responsive and user-friendly web applications with a focus on c
 
 ## Portfolio
 
-🌐 Portfolio: [Your Portfolio Link]
+🌐 Portfolio: https://priyanka-ray04.github.io/portfolio-website/
 
 ## Connect with me
-
-💼 LinkedIn: [Your LinkedIn Link]  
+ 
 📧 Email: priyanka.ray0409@gmail.com
